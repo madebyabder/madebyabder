@@ -43,10 +43,3 @@ I'm a passionate indie developer and lifelong learner, driven by curiosity and t
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-
-
-<br />
-
