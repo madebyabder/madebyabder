@@ -72,7 +72,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 
 
 </div>
----
 
 ## 🛠️ Security Stack
 
