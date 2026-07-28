@@ -1,4 +1,4 @@
-# 🛡️ MadeByAbder
+#MadeByAbder
 
 **`Exploit Architect | Cybersecurity Engineer | Offensive Security Enthusiast | Continuous Learner`**
 
@@ -58,11 +58,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/>
 <img width="12"/>
 
-<!-- Metasploit -->
-<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metasploit.svg" height="45" alt="Metasploit"/>
-<img width="12"/>
-
-
 <!-- Wazuh -->
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg" height="45" alt="Wazuh"/>
 <img width="12"/>
@@ -75,8 +70,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="45" alt="Elasticsearch"/>
 <img width="12"/>
 
-<!-- Linux -->
-<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
 
 </div>
 ---
