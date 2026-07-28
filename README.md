@@ -44,7 +44,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-</div>
 
 <!-- Kali Linux -->
 <img src="https://skillicons.dev/icons?i=kali" height="45" alt="Kali Linux"/>
