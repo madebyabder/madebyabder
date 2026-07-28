@@ -53,9 +53,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 <img src="https://cdn.simpleicons.org/portswigger/FF6633" height="45" alt="Burp Suite"/>
 <img width="12"/>
 
-<!-- Nmap -->
-<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nmap.svg" height="45" alt="Nmap"/>
-<img width="12"/>
 
 <!-- Wireshark -->
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/>
@@ -65,9 +62,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metasploit.svg" height="45" alt="Metasploit"/>
 <img width="12"/>
 
-<!-- Hydra -->
-<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hydra.svg" height="45" alt="Hydra"/>
-<img width="12"/>
 
 <!-- Wazuh -->
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg" height="45" alt="Wazuh"/>
@@ -79,10 +73,6 @@ My current focus is on hands-on learning through labs, CTFs, and real-world secu
 
 <!-- Elasticsearch -->
 <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="45" alt="Elasticsearch"/>
-<img width="12"/>
-
-<!-- Docker -->
-<img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
 <img width="12"/>
 
 <!-- Linux -->
