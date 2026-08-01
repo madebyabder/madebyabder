@@ -1,80 +1,77 @@
-# MadeByAbder
-
-**`Exploit Architect | Cybersecurity Engineer | Offensive Security Enthusiast | Continuous Learner`**
-
-I'm a cybersecurity engineering student passionate about offensive security, penetration testing, and security research. I enjoy understanding how systems work, identifying weaknesses, and building practical projects that strengthen my technical skills.
-
-My current focus is on hands-on learning through labs, CTFs, and real-world security projects. I believe the best way to learn cybersecurity is by building, breaking, analyzing, and improving—one project at a time.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:266210,100:00FF41&height=180&section=header&text=madebyabder&fontSize=48&fontColor=FBF5DD&fontAlignY=38&desc=Exploit%20Architect%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Enthusiast;SOC+%26+Detection+Engineering;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
-## ⚡ Current Focus
+### `whoami`
 
-- 🛡️ Offensive Security & Penetration Testing
-- 🌐 Web Application Security
-- 🔍 Vulnerability Assessment
-- 🧪 CTF Challenges & Hands-on Labs
-- 🐧 Linux & System Administration
-- 📚 Security Research
+I'm a cybersecurity engineering student focused on offensive security, penetration testing, and security research. I like understanding how systems actually work, finding where they break, and building projects that prove I understand both sides — attack and defense.
+
+My current approach: hands-on labs, CTFs, and real infrastructure — building SOC pipelines, comparing firewall behavior under live attack, and documenting every step like it's going in front of a hiring manager, because eventually it is.
+
+```
+$ cat current_focus.txt
+[+] Offensive Security & Penetration Testing
+[+] Web Application Security (OWASP Top 10)
+[+] SOC Operations & Detection Engineering (Wazuh)
+[+] Network Security (Firewalls, IDS/IPS)
+[+] CTF Challenges & Hands-on Labs
+[+] Security Research
+```
 
 ---
 
-## 🧰 Languages & Tools
+## 🖥️ Live Activity
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img width="12"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/madebyabder/madebyabder/output/terminal-card.svg" alt="Live terminal dashboard of GitHub activity" width="640"/>
+<br>
+</div>
 
-  <!-- Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <img width="12"/>
+---
 
-  <!-- Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+## 🧰 Tech & Tools
 
-<!-- Kali Linux -->
-<img src="https://skillicons.dev/icons?i=kali" height="45" alt="Kali Linux"/>
-<img width="12"/>
+<div align="center">
 
-<!-- Burp Suite -->
-<img src="https://cdn.simpleicons.org/portswigger/FF6633" height="45" alt="Burp Suite"/>
-<img width="12"/>
+**Offensive Security**
+<br><br>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
+<br><br>
 
-<!-- Wireshark -->
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/>
-<img width="12"/>
+**Blue Team / SOC**
+<br><br>
+<img src="https://img.shields.io/badge/Wazuh-2F8CB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-A32638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
 
-<!-- Wazuh -->
-<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg" height="45" alt="Wazuh"/>
-<img width="12"/>
+<br><br>
 
-<!-- Kibana -->
-<img src="https://cdn.simpleicons.org/kibana/005571" height="45" alt="Kibana"/>
-<img width="12"/>
-
-<!-- Elasticsearch -->
-<img src="https://cdn.simpleicons.org/elasticsearch/005571" height="45" alt="Elasticsearch"/>
-<img width="12"/>
-
+**Core**
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
-## 🛠️ Security Stack
-
-`Burp Suite` • `Nmap` • `Wireshark` • `Metasploit` • `OWASP Top 10` • `Wazuh` • `T-Pot`
-
 ---
+
+<div align="center">
+
+<sub>"The best way to learn cybersecurity is by building, breaking, analyzing, and improving. One project at a time."</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:266210&height=100&section=footer" width="100%"/>
+
+</div>
